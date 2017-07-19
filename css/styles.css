@@ -1,0 +1,45 @@
+html {
+  font-family: 'Montserrat', sans-serif;
+  padding: 40px;
+  color: white;
+}
+
+body {
+  background-image: url("../img/night.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-overflow-scrolling: touch;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+
+}
+
+li {
+  list-style-type: none;
+}
+
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color: white;
+
+}
+
+a:hover {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
